@@ -1,8 +1,8 @@
 # My Courses
-Slides and Handouts for various courses I have offered for high school students in national biology olympiad.
+Slides and lecture videos for various courses I have offered for high school students in national biology olympiad.
 
-## Biomath101
-An introduction to linear algebra, calculus and differential equations. I have tried to emphasize on core concepts and visual methods of analysis rather than mathematical formalism. 
+## MathBio
+Mathematics for biologists. An introduction to linear algebra, calculus and differential equations. I have tried to emphasize on core concepts and visual methods of analysis rather than mathematical formalism. 
 
 ## Biostats101
 A course on practical statistics for biologists.
