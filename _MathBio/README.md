@@ -5,7 +5,7 @@ This course is divided in to six chapters:
 2. Algebra: basic high school level mathematics, functions, polynominal roots, imaginary unit, complex numbers.
 3. Linear Algebra: systems of linear equations, vectors, matrices as transformations, eigenvectors and eigenvalues. 
 4. Calculus: limits, differentiation, integration and an introduction to multivariable calculus.
-5. Differential Equations. analytical, computational and graphical methods to think about differential equations, with examples in one dimnesional systems. NO VIDEO YET!
+5. Differential Equations. analytical, computational and graphical methods to think about differential equations, with examples in one dimensional systems. NO VIDEO YET!
 6. Probability and introduction to statistics. axioms of probability, conditional probability, random variables and probability distributions, important distributions, introduction to frequentist and bayesian statistics.
 
 
@@ -22,4 +22,3 @@ This course is divided in to six chapters:
 |Chapter6|[Video](https://drive.google.com/drive/folders/18gXBppIKNInGrqQWpc3WfMfPY19yyoMI?usp=sharing)|
 
 ## [Annotated slides](https://github.com/amizarmo/courses/tree/main/_MathBio/2_slides_annotated)
-
