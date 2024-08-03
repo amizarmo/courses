@@ -1,5 +1,5 @@
 # MathBio2024
-Essential mathematics for biologists. Thaught in 2024 summer course for national olympiad studetns. 
+Essential mathematics for biologists. Taught in 2024 summer course for national olympiad studetns. 
 This course is divided in to six chapters:
 1. Introduction: philosophy of science and how modeling fits into the scientific method. NO VIDEO YET!
 2. Algebra: basic high school level mathematics, functions, polynominal roots, imaginary unit, complex numbers.
