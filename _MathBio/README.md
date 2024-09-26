@@ -22,14 +22,3 @@ This course is divided in to six chapters:
 |Chapter6|[Video](https://drive.google.com/drive/folders/18gXBppIKNInGrqQWpc3WfMfPY19yyoMI?usp=sharing)|
 
 ## [Annotated slides](https://github.com/amizarmo/courses/tree/main/_MathBio/2_slides_annotated)
-
-## [Problem sets](https://github.com/amizarmo/courses/tree/main/_MathBio/3_problems)
-Courtosy of @artina-saraee
-
-## [Recitation videos]()
-Courtosy of @artina-saraee
-|Chapter|Link|
-|---|---|
-|Chapter2|[Video](https://drive.google.com/drive/folders/1LCg4euyXLpN7koTFpOQsUjFJe7AJU3pR?usp=sharing)|
-|Chapter3|[Video](https://drive.google.com/drive/folders/19W-W28GER6MvkxrUg8I1qoJHk-4qjHWY?usp=sharing)|
-|Chapter4|[Video](https://drive.google.com/drive/folders/1pYJ-ilOOUaI-h9p7vwoXGb6WNQsBjVbH?usp=sharing)|
