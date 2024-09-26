@@ -24,10 +24,10 @@ This course is divided in to six chapters:
 ## [Annotated slides](https://github.com/amizarmo/courses/tree/main/_MathBio/2_slides_annotated)
 
 ## [Problem sets](https://github.com/amizarmo/courses/tree/main/_MathBio/3_problems)
-Courtosy of @artina-saraee
+Courtosey of [Artina Saraee](https://github.com/artina-saraee)
 
-## [Recitation videos]()
-Courtosy of @artina-saraee
+## Recitation videos
+Courtosey of [Artina Saraee](https://github.com/artina-saraee)
 |Chapter|Link|
 |---|---|
 |Chapter2|[Video](https://drive.google.com/drive/folders/1LCg4euyXLpN7koTFpOQsUjFJe7AJU3pR?usp=sharing)|
