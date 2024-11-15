@@ -14,10 +14,10 @@ This course is divided in to six chapters:
 |Chapter|Link|
 |---|---|
 |Chapter1|Video|
-|Chapter2|[Video]()|
+|Chapter2|Video|
 |Chapter3|[Video](https://drive.google.com/drive/folders/1JE-qXKyVouDtsnl6T0HVt9g1LecVffpZ?usp=sharing)|
-|Chapter4|[Video]()|
+|Chapter4|Video|
 |Chapter5|Video|
-|Chapter6|[Video]()|
+|Chapter6|Video|
 
 ## [Annotated slides]()
